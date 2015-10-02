@@ -1,6 +1,0 @@
-D:\Projects\visual studio 2013\ProjectEuler\ID1_Multiples_of_3_and_5\bin\Debug\ID1_Multiples_of_3_and_5.exe.config
-D:\Projects\visual studio 2013\ProjectEuler\ID1_Multiples_of_3_and_5\bin\Debug\ID1_Multiples_of_3_and_5.exe
-D:\Projects\visual studio 2013\ProjectEuler\ID1_Multiples_of_3_and_5\bin\Debug\ID1_Multiples_of_3_and_5.pdb
-D:\Projects\visual studio 2013\ProjectEuler\ID1_Multiples_of_3_and_5\obj\Debug\ID1_Multiples_of_3_and_5.csprojResolveAssemblyReference.cache
-D:\Projects\visual studio 2013\ProjectEuler\ID1_Multiples_of_3_and_5\obj\Debug\ID1_Multiples_of_3_and_5.exe
-D:\Projects\visual studio 2013\ProjectEuler\ID1_Multiples_of_3_and_5\obj\Debug\ID1_Multiples_of_3_and_5.pdb
